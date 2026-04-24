@@ -260,7 +260,7 @@
 .about_logo-image {
     object-fit: contain;
     width: 170px;
-    height: 124px;
+    height: 114px;
 }
 
 .about_title {
@@ -281,7 +281,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
-    padding: 1px 50px 1px;
+    padding: 1px 50px 80px;
 }
 
 .footer_address {
